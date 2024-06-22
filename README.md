@@ -24,7 +24,7 @@ To run the code, follow these steps:
    ```
 
 ## Dataset
-The dataset used in this project is sourced from [[source](https://www.kaggle.com/datasets/shree1992/housedata)], containing information about houses including features like square footage, number of bedrooms, bathrooms, location, and other relevant factors influencing house prices.
+The dataset used in this project is sourced from [[ House Price Prediction Dataset](https://www.kaggle.com/datasets/shree1992/housedata)], containing information about houses including features like square footage, number of bedrooms, bathrooms, location, and other relevant factors influencing house prices.
 
 ## Usage
 To train and evaluate the model, follow these steps:
