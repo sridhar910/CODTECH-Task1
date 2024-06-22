@@ -1,7 +1,7 @@
 # CODTECH-Task1
 
 
-Certainly! Here's a README file template for a house price prediction project:
+
 
 ---
 
